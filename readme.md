@@ -61,7 +61,7 @@ Stwórzcie komponent **funkcyjny** `UserCard`. Ma on przez `prop` przyjmować:
 Komponent ma renderować (przykład w `HTML`):
 ```html
 <div class="card">
-  <div>
+  <div> 
     <h5>{Imię} {Nazwisko}</h5>
     <div>{Adres}</div>
     <div>{Kod Pocztowy} {Miejscowość}</div>
